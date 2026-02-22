@@ -1,1 +1,1 @@
-# kanaminova.github.io
+# kanami.dev
