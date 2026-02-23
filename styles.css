@@ -5,8 +5,17 @@ border-style: ridge;
 height: 25px;
 font-family: "Brush Script MT", cursive;}
 
-h1, p1, p {
-font-family: "Brush Script MT", cursive;
+h1 {
+font-family: "Hi Melody", sans-serif;
+font-size: 250%;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+
+p1, p {
+font-family: "Hi Melody", sans-serif;
+font-size: 150%;
 display: flex;
 justify-content: center;
 align-items: center;}
@@ -29,4 +38,5 @@ font-family: "Lucida Handwriting", cursive;}
 a {
 font-family: "Brush Script MT", cursive;
 color:rgb(219, 147, 79);}
+
 
