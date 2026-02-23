@@ -25,7 +25,12 @@ text-align: center;}
 
 footer {
 font-family: "Hi Melody", sans-serif;
-
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 6%;
+align-self: flex-end;
 }
 
 
