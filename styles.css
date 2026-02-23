@@ -3,7 +3,9 @@ border: 2px solid black;
 border-radius: 6px;
 border-style: ridge;
 height: 25px;
-font-family: "Brush Script MT", cursive;}
+font-family: "Hi Melody", sans-serif;
+font-size: 140%;
+text-align: center;}
 
 h1 {
 font-family: "Hi Melody", sans-serif;
@@ -18,7 +20,8 @@ font-family: "Hi Melody", sans-serif;
 font-size: 150%;
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+text-align: center;}
 
 table {
 display: flex;
@@ -36,7 +39,7 @@ input {
 font-family: "Lucida Handwriting", cursive;}
 
 a {
-font-family: "Brush Script MT", cursive;
+font-family: "Hi Melody", sans-serif;;
 color:rgb(219, 147, 79);}
 
 
