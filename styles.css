@@ -1,0 +1,32 @@
+th, td {
+border: 2px solid black;
+border-radius: 6px;
+border-style: ridge;
+height: 25px;
+font-family: "Brush Script MT", cursive;}
+
+h1, p1, p {
+font-family: "Brush Script MT", cursive;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+table {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+img {
+display: block;
+margin-left: auto; 
+margin-right: auto;
+}
+
+input {
+font-family: "Lucida Handwriting", cursive;}
+
+a {
+font-family: "Brush Script MT", cursive;
+color:rgb(219, 147, 79);}
+
